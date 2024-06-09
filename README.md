@@ -1,4 +1,4 @@
 # poc
 
--u  url \n
+-u  url 
 -f  文件
